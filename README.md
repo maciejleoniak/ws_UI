@@ -1,5 +1,5 @@
 ## description 
-UI interface for scraped data from previous project. 
+UI for scraped data from previous project. 
 
 ## how to run 
 
